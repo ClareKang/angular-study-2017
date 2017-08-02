@@ -2,8 +2,8 @@
 learning Angular Framework and TypeScript.
 
 ### reference 
-Book [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
-Document [Angular](https://angular.io/guide/quickstart)
+* Book [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
+* Document [Angular](https://angular.io/guide/quickstart)
 
 ## First Week
 * appendix A ECMASCRIPT 6

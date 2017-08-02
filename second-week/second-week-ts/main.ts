@@ -12,7 +12,7 @@ class HelloWorldComponent {
   name : string;
 
   constructor () {
-    this.name = 'Angular';
+    this.name = 'Clare Kang';
   }
 }
 

@@ -14,7 +14,18 @@ learning Angular Framework and TypeScript.
 * Chapter 1: Introducing Angular 2
 * Chapter 2: Getting started with angular
 
-### Create New Angular App
+#### Run Angular App Manually
+```
+$ (OPTIONAL) npm install -g http-server
+$ http-server
+```
+OR
+```
+$ (OPTIONAL) npm install -g live-server
+$ live-server
+```
+
+#### Create New Angular App With Angular/CLI
 ```
 $ (OPTIONAL) npm install -g @angular/cli
 $ ng new second-week 

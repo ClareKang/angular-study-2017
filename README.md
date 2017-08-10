@@ -1,7 +1,7 @@
 # angular-study-2017
 learning Angular Framework and TypeScript.
 
-### reference 
+### reference
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Angular](https://angular.io/guide/quickstart)
 * [Github Sample Code](https://github.com/han41858/Angular-development-with-TypeScript)
@@ -28,6 +28,11 @@ $ live-server
 #### Create New Angular App With Angular/CLI
 ```
 $ (OPTIONAL) npm install -g @angular/cli
-$ ng new second-week 
+$ ng new second-week
 $ cd second-week
 ```
+
+## Third Week
+* Chapter 3: Routing
+
+

@@ -3,6 +3,7 @@ import { Component, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HomeComponent } from './components/home.component';
 import { ProductDetailComponent } from './components/product.component';
+import { _404Component } from './components/_404.component';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 import { Router, Routes, RouterModule } from '@angular/router';
 
@@ -14,6 +15,10 @@ const routes : Routes = [
   {
     path: 'product',
     component: ProductDetailComponent
+  },
+  {
+    path: '**',
+    component: _404Component
   },
 ];
 
@@ -41,7 +46,8 @@ class AppComponent {
 	declarations : [
 		AppComponent,
 		HomeComponent,
-		ProductDetailComponent
+    ProductDetailComponent,
+    _404Component
 	],
 	providers : [
 		{

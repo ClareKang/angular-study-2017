@@ -1,7 +1,13 @@
 # angular-study-2017
 learning Angular Framework and TypeScript.
 
-### reference
+### Table of Contents
+[References](#reference)
+[1. First Week](#first-week)
+[2. Second Week](#second-week)
+[3. Third Week](#third-week)
+
+### References
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Angular](https://angular.io/guide/quickstart)
 * [Github Sample Code](https://github.com/han41858/Angular-development-with-TypeScript)
